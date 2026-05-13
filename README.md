@@ -331,16 +331,8 @@ Possible improvements for this project include:
 
 ---
 
-# 👨‍💻 Author
 
-![Author](https://img.shields.io/badge/Author-ft--FiasCode-blue?style=flat&logo=github)
-![GitHub](https://img.shields.io/badge/GitHub-ft--FiasCode-181717?logo=github&logoColor=white)
 
-**ft-FiasCode**
-
-GitHub: [https://github.com/ft-FiasCode](https://github.com/ft-FiasCode)
-
----
 
 # 📜 License
 
